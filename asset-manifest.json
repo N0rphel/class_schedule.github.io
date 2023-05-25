@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/N0rphel/class_schedule.github.io.git/static/css/main.de733d2b.css",
+    "main.js": "/N0rphel/class_schedule.github.io.git/static/js/main.69ce4ef6.js",
+    "index.html": "/N0rphel/class_schedule.github.io.git/index.html",
+    "main.de733d2b.css.map": "/N0rphel/class_schedule.github.io.git/static/css/main.de733d2b.css.map",
+    "main.69ce4ef6.js.map": "/N0rphel/class_schedule.github.io.git/static/js/main.69ce4ef6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de733d2b.css",
+    "static/js/main.69ce4ef6.js"
+  ]
+}
